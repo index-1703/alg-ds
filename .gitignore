@@ -345,6 +345,6 @@ healthchecksdb
 
 # Visual Studio Code
 .vscode/
-out/
+#out/
 
 *.exe
